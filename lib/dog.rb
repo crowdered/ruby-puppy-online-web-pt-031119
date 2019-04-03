@@ -8,7 +8,7 @@ class Dog
 end 
 
 def self.all
-  puts @@all.map |dog|
+  puts @@all.map{ |dog| dog 
 end
   
 end
