@@ -8,7 +8,7 @@ class Dog
 end 
 
 def self.all
-  all.each 
+  
 end
   
 end
